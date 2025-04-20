@@ -1,0 +1,5 @@
+markdown nedir??
+jupyter nedir
+anaconda/miniconda
+
+
