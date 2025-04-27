@@ -3,4 +3,7 @@ jupyter nedir
 anaconda/miniconda
 interpreter
 data frame 
+HEAD
 pandas 
+pandas 
+525b466e7f4174fd3cad9bc5b5a08335cc603b49
