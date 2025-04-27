@@ -1,5 +1,6 @@
 markdown nedir??
 jupyter nedir
 anaconda/miniconda
-
-
+interpreter
+data frame 
+pandas 
