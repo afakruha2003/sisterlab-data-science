@@ -1,0 +1,14 @@
+random_state=42 burada eşit olduğu değeri nasıl  belirleriz bu değeri neye göre belirleriz ?? ayrıca print(y[0]) neyi ifade eder ?? ek olarak da Basit Doğrusal Regresyon Modeli nedir yani normalde kaç tane model var ve her modelin özellikleri nelerdir??LR = LinearRegression()
+GBR = GradientBoostingRegressor()
+RFR = RandomForestRegressor()  buradaki modelleri de unutma .   RFR = RandomForestRegressor(
+    n_jobs=-1
+)  model = HistGradientBoostingRegressor(
+        max_iter=i
+    )burada   max_iter=i ve  n_jobs prametresi nedir ne işe yarar ??for j in [0.1, 0.05, 0.001]:   
+    for i in [100, 200, 300, 400, 500]:
+        model = HistGradientBoostingRegressor(
+            max_iter=i,
+            learning_rate=j
+        ) buradaki parametreleri de anlat         print("old number of features:", len(x_train[0])) satırı nedir ne işe yarar ayrıca poly = PolynomialFeatures() 
+x_train = poly.fit_transform(x_train)
+x_test = poly.fit_transform(x_test) bu satırları satır satır alıp tek tek anlat neyi neden yazdığımız ne işe yaradığınıı?? modeli katdetmeye çalıştığımızda "my_model.pkl" kaydetmekle  "my_model.joblib" kaydetmek arasındaki fark nedir?? ayrıca my_model yazmak zorunda mıyım yani başka değişken kullanmam sorun yaratır mı bu isim herhangi bir şeye bağlı mı??

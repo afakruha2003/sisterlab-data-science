@@ -7,3 +7,7 @@ HEAD
 pandas 
 pandas 
 525b466e7f4174fd3cad9bc5b5a08335cc603b49
+
+
+https://scikit-learn.org/stable/install.html
+google cloud for api
