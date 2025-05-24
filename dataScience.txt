@@ -11,3 +11,14 @@ pandas
 
 https://scikit-learn.org/stable/install.html
 google cloud for api
+
+
+https://www.data-to-viz.com
+
+gerçek veri seti seçip ön işlemler yapılacak. temizlenecek ,göselleştirecek 
+gerçek veri seti kuggle'dan yardım alabirsin
+özenli kapsamlı comment yazdığımız bir proje 
+sunum preprocessing ikna etmek
+
+metin yazarak veri tabanına saklayıp productivity artırmak
+https://obsidian.md/ çok önemli !!!!
